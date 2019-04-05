@@ -1,0 +1,108 @@
+Name = "MDErgo1";
+Layout = "Blank";
+Base = "Blank";
+Version = "0.1";
+Author = "HaaTa (Jacob Alexander) 2015";
+KLL = "0.3c";
+Date = "2015-09-12";
+Generator = "KIICONF 0.2";
+
+# FLASH
+U"Tab" + U"LShift" + U"Esc" : flashMode();
+U"RShift" + U"Quote" + U"Function6" : flashMode();
+
+# LEFT ROW 0
+U"Equals" : '`';
+U"1" : '1';
+U"2" : '2';
+U"3" : '3';
+U"4" : '4';
+U"5" : '5';
+U"Esc" : None;
+
+# LEFT ROW 1
+U"Backslash" : U"Tab";
+U"Q" : 'q';
+U"W" : 'd';
+U"E" : 'r';
+U"R" : 'w';
+U"T" : 'b';
+U"Function1" : U"Esc";
+
+# LEFT ROW 2
+U"Tab" : U"LGui";
+U"A" : 'a';
+U"S" : 's';
+U"D" : 'h';
+U"F" : 't';
+U"G" : 'g';
+
+# LEFT ROW 3
+U"LShift" : U"LShift";
+U"Z" : 'z';
+U"X" : 'x';
+U"C" : 'm';
+U"V" : 'c';
+U"B" : 'v';
+U"Function2" : None;
+U"LCtrl" : None;
+U"LAlt" : None;
+
+# LEFT ROW 4
+U"LGui" : U"Capslock";
+U"Backtick" : CONS"mute";
+U"Function3" : None;
+U"Function4" : U"LAlt";
+U"Function5" : U"Function2";
+U"Backspace" : U0x2C;
+U"Delete" : U"Delete";
+U"End" : U"Enter";
+U"Home" : None;
+
+# RIGHT ROW 0
+U"Function6" : None;
+U"6" : '6';
+U"7" : '7';
+U"8" : '8';
+U"9" : '9';
+U"0" : '0';
+U"Minus" : U"Lock1";
+
+# RIGHT ROW 1
+U"LBrace" : U"Equal";
+U"Y" : 'j';
+U"U" : 'f';
+U"I" : 'u';
+U"O" : 'p';
+U"P" : ':';
+U"RBrace" : '\';
+
+# RIGHT ROW 2
+U"H" : 'y';
+U"J" : 'n';
+U"K" : 'e';
+U"L" : 'o';
+U"Semicolon" : 'i';
+U"Quote" : U"Quote";
+
+# RIGHT ROW 3
+U"RALT" : None;
+U"RCtrl" : U"RCtrl";
+U"Function7" : '-';
+U"N" : 'k';
+U"M" : 'l';
+U"Comma" : ',';
+U"Period" : '.';
+U"Slash" : '/';
+U"RShift" : U"RShift";
+
+# RIGHT ROW 4
+U"PageUp" : None;
+U"PageDown" : None;
+U"Enter" : U"Enter";
+U"Space" : U"Backspace";
+U"Left" : U"Function3";
+U"Down" : U"RAlt";
+U"Up" : None;
+U"Right" : None;
+U"RGui" : None;
