@@ -8,7 +8,7 @@ Date = "2015-09-12";
 Generator = "KIICONF 0.2";
 
 # LEFT ROW 0
-U"Equals" : CONS0x32;
+U"Equals" : SYS0x82;
 
 # LEFT ROW 1
 U"Q" : U"Capslock";
